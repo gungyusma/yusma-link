@@ -10,7 +10,7 @@ function App() {
         <a className="border-2 font-light border-black rounded-xl p-2 mr-6 text-sm mb-3" href="https://github.com/gungyusma">Github</a>
         <a className="border-2 font-light border-black rounded-xl p-2 text-sm mb-3" href="https://www.linkedin.com/in/savitri-maharani/">Linkedin</a>
       </div>
-      <a className="text-center border-2 font-light border-black rounded-xl p-2 text-sm mb-3" href="instagram.com/yusmasv">you better follow me on this one</a>
+      <a className="text-center border-2 font-light border-black rounded-xl p-2 text-sm mb-3" href="https://instagram.com/yusmasv">you better follow me on this one</a>
       <p className="text-center">Mail me : yusmagung@gmail.com</p>
       <p> </p>
     </div>
